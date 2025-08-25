@@ -23,12 +23,6 @@ or grinding through algorithms for fun (yes, really 😅).
 
 ---
 
-### 📊 GitHub at a Glance
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhabra-anirudh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhabra-anirudh&layout=compact&theme=radical)  
-
----
-
 ### 🌐 Let’s Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://anirudh-chhabra.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-chhabra-cs/)  
