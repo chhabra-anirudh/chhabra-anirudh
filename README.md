@@ -1,33 +1,56 @@
-# Hey, I'm Anirudh 👋
+# 👋 Hey there! I'm **Anirudh Chhabra**
 
-I'm a CS student at the **University of Waterloo** who loves building things at the intersection of  
-**AI/ML, full-stack development, and systems software**.  
-
-When I’m not coding, you’ll probably find me brainstorming startup ideas, sketching UI designs in Figma,  
-or grinding through algorithms for fun (yes, really 😅).  
+🎓 **2A Computer Science student @ University of Waterloo (Honours, Co-op)**  
+💡 Passionate about **building meaningful software**, exploring **AI & systems**, and designing **human-centered digital experiences.**
 
 ---
 
-### 🔭 What I’m Working On
-- 🚀 **AlgoPlayground** — an interactive algorithm visualizer  
-- ✅ **TaskFlow** — a full-stack task manager with Docker + CI/CD  
-- 🌐 [**Portfolio Website**](https://anirudh-chhabra.netlify.app/) — my digital home  
+### 🚀 What I’ve Been Working On
+- 🧠 **[Dedup Storage](https://github.com/chhabra-anirudh/dedup-storage)** — A C++ & React-based deduplicated file storage system that saves space by storing only unique file chunks.  
+- ⚙️ **[Contiguous Memory Allocator](https://github.com/chhabra-anirudh/contiguous-memory-allocator)** — Simulates C’s heap memory with custom `cmalloc`/`cfree`, linked metadata, and visualization utilities.  
+- 📊 **[Municipal Energy Dashboard](https://github.com/chhabra-anirudh/municipal-energy-dashboard)** — Interactive React dashboard visualizing municipal energy & GHG data using Chart.js and Tailwind CSS.  
+- 🎓 **[OnTrack](https://github.com/jovitta-seb/uwreq)** — A collaborative course planner for UW students that automates prerequisite tracking for 4,000+ courses using Playwright.
 
 ---
 
-### ⚡ Some Quick Facts
-- 🎓 Faculty of Mathematics Ambassador @ UW  
-- 💡 Researching **diffusion acceleration** for generative models (Fall 2025)  
-- 🏆 Governor General’s Academic Medal + multiple STEM scholarships  
-- 🍵 Powered by chai & late-night coding sessions  
+### 💼 Experience
+**Frontend Developer & UI/UX Designer – Co-op @ University of Waterloo (Plant Operations)**  
+Modernized building-automation dashboards across 20+ facilities using Niagara N4, improving operator efficiency by 30%.
+
+**Undergraduate Researcher (UR2PhD Program)**  
+Exploring **diffusion models for image/video generation**, optimizing inference latency via caching and sparse computation.
+
+**Web Designer – UW Computer Science Club**  
+Designing and developing the **Class Profile 2025** website with responsive layouts and accessible interfaces.
 
 ---
 
-### 🌐 Let’s Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://anirudh-chhabra.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-chhabra-cs/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhabra-anirudh)  
+### 🛠️ Tech Stack
+**Languages:** C/C++, Python, Java, JavaScript, Dart, HTML/CSS, Bash  
+**Frameworks & Libraries:** React, Next.js, Node.js, Express, Flutter, Bootstrap, Tailwind CSS  
+**Databases & Systems:** PostgreSQL, MongoDB, Firebase, REST APIs, Niagara Workbench (N4)  
+**Tools:** Git, Linux, Figma  
 
 ---
 
-⭐ *Always building, always learning — one project at a time.*
+### 🏆 Awards
+🏅 **Governor General’s Academic Medal**  
+🎓 **President’s Scholarship of Distinction – University of Waterloo**  
+💰 **Ted Rogers Scholarship**, **Glacier & MDS AeroTest STEM Scholarship**, and others.
+
+---
+
+### 🌱 What I’m Exploring
+- Applied **AI & ML**, generative models, and scalable backend systems.  
+- UI/UX principles that make technology more **human and accessible**.  
+- Building creative projects that blend **engineering and design thinking.**
+
+---
+
+### 📫 Let’s Connect!
+📧 **anirudhbuilds@gmail.com**  
+🌐 [**Portfolio**](https://anirudh-chhabra.netlify.app) 💼 [**LinkedIn**](https://www.linkedin.com/in/anirudh-chhabra-cs) 💻 [**GitHub**](https://github.com/chhabra-anirudh)
+
+---
+
+> 💬 *“Curiosity is the root of innovation — and I’m always exploring what’s next.”*
